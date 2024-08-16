@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView_insertarItems</string>
+    <string name="id">ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="insertar">Insertar</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="buscar">Buscar</string>
+</resources>
