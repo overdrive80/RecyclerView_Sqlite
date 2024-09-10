@@ -30,6 +30,7 @@ public class PersonaDAO {
 
         if (db != null) {
             Log.d(TAG, "Base de datos abierta correctamente.");
+            db.close();
         } else {
             Log.d(TAG, "Error al abrir la base de datos.");
         }
